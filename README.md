@@ -3,6 +3,7 @@ I’m Tiago, a **Pentester** and **Systems Engineer** with a strong focus on off
 
 💻 I break things (legally), analyze weaknesses, and help build secure and resilient systems.
 
+I'm currently on zephyr from htb !
 ---
 
 ## 🛡️ About Me
@@ -12,9 +13,8 @@ I’m Tiago, a **Pentester** and **Systems Engineer** with a strong focus on off
 - Systems Engineering (Linux / Windows)
 - Networking, Virtualization & Cloud
 - Automation & Scripting
-- Linux enthusiast
 
-
+---
 
 <!--
 **TsUu09/TsUu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
