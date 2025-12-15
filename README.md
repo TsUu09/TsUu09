@@ -1,4 +1,21 @@
 ## Hi there 👋
+I’m a **Pentester** and **Systems Engineer** with a strong focus on offensive security, infrastructure hardening, and automation.
+
+💻 I break things (legally), analyze weaknesses, and help build secure and resilient systems.
+
+---
+
+## 🛡️ About Me
+
+- 🔐 Penetration Testing (Web, Network, Infrastructure, Active Directory)
+- 🧠 Offensive & Defensive Security
+- ⚙️ Systems Engineering (Linux / Windows)
+- 📡 Networking, Virtualization & Cloud
+- 🛠️ Automation & Scripting
+
+
+
+
 
 <!--
 **TsUu09/TsUu09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
