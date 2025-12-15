@@ -12,8 +12,7 @@ I’m Tiago, a **Pentester** and **Systems Engineer** with a strong focus on off
 - Systems Engineering (Linux / Windows)
 - Networking, Virtualization & Cloud
 - Automation & Scripting
-
-
+- Linux enthusiast
 
 
 
