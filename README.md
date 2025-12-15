@@ -7,11 +7,11 @@ I’m a **Pentester** and **Systems Engineer** with a strong focus on offensive 
 
 ## 🛡️ About Me
 
-- 🔐 Penetration Testing (Web, Network, Infrastructure, Active Directory)
-- 🧠 Offensive & Defensive Security
-- ⚙️ Systems Engineering (Linux / Windows)
-- 📡 Networking, Virtualization & Cloud
-- 🛠️ Automation & Scripting
+- Penetration Testing (Web, Network, Infrastructure, Active Directory)
+- Offensive & Defensive Security
+- Systems Engineering (Linux / Windows)
+- Networking, Virtualization & Cloud
+- Automation & Scripting
 
 
 
